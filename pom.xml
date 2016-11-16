@@ -21,6 +21,11 @@
 		<scalaz.version>7.1.0</scalaz.version>
 		<junit.version>4.12</junit.version>
 		<logback.version>1.1.2</logback.version>
+		<scala.major>2</scala.major>
+		<scala.minor>11</scala.minor>
+		<scala.patch>8</scala.patch>
+		<scala.version>${scala.major}.${scala.minor}.${scala.patch}</scala.version>
+		<typesafe-config.version>1.3.0</typesafe-config.version>
 	</properties>
 	
 	
